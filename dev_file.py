@@ -2,3 +2,4 @@
 
 def fun():
     print("new function added")
+    print("added print command")
